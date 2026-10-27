@@ -1,0 +1,12 @@
+[
+  {"id": 21, "text": "We were billed for 50 seats this month but our team only has 12 users.", "true_category": "billing", "true_priority": "high"},
+  {"id": 22, "text": "Search has returned zero results for every query since this morning's update. All 200 of our staff depend on it.", "true_category": "technical", "true_priority": "high"},
+  {"id": 23, "text": "Where do I find the setting to turn on two-factor authentication?", "true_category": "account", "true_priority": "low"},
+  {"id": 24, "text": "Could you send us a quote for the enterprise plan for roughly 300 users?", "true_category": "other", "true_priority": "low"},
+  {"id": 25, "text": "A former employee still has access to our workspace even though we removed him last week.", "true_category": "account", "true_priority": "high"},
+  {"id": 26, "text": "The date picker shows the wrong month when I use the app in Safari.", "true_category": "technical", "true_priority": "medium"},
+  {"id": 27, "text": "Please switch us from monthly to annual billing starting next cycle.", "true_category": "billing", "true_priority": "low"},
+  {"id": 28, "text": "We need a signed data processing agreement before our security review on Friday.", "true_category": "other", "true_priority": "medium"},
+  {"id": 29, "text": "I can't log in on my phone, but it works fine on my laptop.", "true_category": "account", "true_priority": "medium"},
+  {"id": 30, "text": "Love the new reporting feature! Could you also add PDF export?", "true_category": "other", "true_priority": "low"}
+]

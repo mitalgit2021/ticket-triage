@@ -1,0 +1,22 @@
+[
+  {"id": 1, "text": "I was charged twice for my subscription this month. Please refund.", "true_category": "billing", "true_priority": "high"},
+  {"id": 2, "text": "How do I change the email address on my account?", "true_category": "account", "true_priority": "low"},
+  {"id": 3, "text": "The app crashes every time I upload a file larger than 10MB.", "true_category": "technical", "true_priority": "medium"},
+  {"id": 4, "text": "Our whole team is locked out and we have a client demo in one hour!", "true_category": "account", "true_priority": "high"},
+  {"id": 5, "text": "Do you offer a discount for nonprofits?", "true_category": "other", "true_priority": "low"},
+  {"id": 6, "text": "I got a password reset email I didn't request, and I think someone else logged into my account last night.", "true_category": "account", "true_priority": "high"},
+  {"id": 7, "text": "Can you send me copies of last quarter's invoices? Our accounting team needs them for records.", "true_category": "billing", "true_priority": "low"},
+  {"id": 8, "text": "The dashboard has been loading very slowly in the afternoons, around 30 seconds per page.", "true_category": "technical", "true_priority": "medium"},
+  {"id": 9, "text": "Your API has returned 500 errors for every request since 9am. Our production system is down.", "true_category": "technical", "true_priority": "high"},
+  {"id": 10, "text": "It would be great if you added a dark mode to the mobile app.", "true_category": "other", "true_priority": "low"},
+  {"id": 11, "text": "My card was declined when I tried to upgrade my plan, but my bank says there is no problem on their side.", "true_category": "billing", "true_priority": "medium"},
+  {"id": 12, "text": "How do I add a new user to our team workspace?", "true_category": "account", "true_priority": "low"},
+  {"id": 13, "text": "When I export to CSV, names with accents like José show up as broken characters.", "true_category": "technical", "true_priority": "medium"},
+  {"id": 14, "text": "I paid for the premium plan yesterday but none of the premium features are working. I want them working or my money back.", "true_category": "billing", "true_priority": "high"},
+  {"id": 15, "text": "Just wanted to say thanks, your support team was really helpful last week!", "true_category": "other", "true_priority": "low"},
+  {"id": 16, "text": "URGENT!!! How do I change my profile picture???", "true_category": "account", "true_priority": "low"},
+  {"id": 17, "text": "No rush on this, but I noticed our reports page is showing customer records from a different company.", "true_category": "technical", "true_priority": "high"},
+  {"id": 18, "text": "We'd like to cancel our subscription at the end of this month. What is the process?", "true_category": "billing", "true_priority": "medium"},
+  {"id": 19, "text": "Is your platform GDPR compliant? Our legal team needs written confirmation before we renew.", "true_category": "other", "true_priority": "medium"},
+  {"id": 20, "text": "The password reset link says it has expired as soon as I click it, so I can't get into my account.", "true_category": "account", "true_priority": "medium"}
+]
